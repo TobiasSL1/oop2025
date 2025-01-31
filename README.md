@@ -12,7 +12,7 @@ The main entry points are here
 
 ## Feedback 
 
-after the workshop is welcome under
+Feedback after the workshop is welcome under
 [Workshop Feedback for sigs-datacom](https://www.sigs-datacom.de/sd/conference-evaluation/oop2025/10523)
 
 ## Origin
