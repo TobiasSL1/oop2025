@@ -7,5 +7,5 @@ The course is based on https://github.com/trifectatechfoundation/teach-rs, an op
 
 The main entry points are here
 
-* [exercises/README.md](exercises/README.md)
+* [Exercises](exercises/README.md)
 * [Slides](slides/)
